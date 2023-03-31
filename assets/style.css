@@ -18,15 +18,24 @@ textarea{
     background-color: transparent;
 }
 
-.input{
-white-space: pre-wrap;
 
-}
 .hour{
-columns: 2px;;
+row-gap: 2px;
+text-align: center;
+padding-top: 18px;
+background-color: aliceblue;
+}
+
+.past{
+background-color: dimgray;
+}
 
 
+.current{
+background-color: crimson;
+}
 
 
-
+.expected{
+background-color: forestgreen;
 }
