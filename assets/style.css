@@ -13,3 +13,20 @@ header{
     border-color: rgb(119, 106, 106);
     text-align: center;
 }
+
+textarea{
+    background-color: transparent;
+}
+
+.input{
+white-space: pre-wrap;
+
+}
+.hour{
+columns: 2px;;
+
+
+
+
+
+}
