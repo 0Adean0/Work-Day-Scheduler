@@ -1,0 +1,15 @@
+body{
+    font-family: 'Viaoda Libre', cursive;
+    font-size: 20px;
+    background-color: rgb(224, 187, 137);
+}
+
+
+
+header{
+    padding-top: 20px;
+    border-bottom: 8px;
+    border-bottom-style:double;
+    border-color: rgb(119, 106, 106);
+    text-align: center;
+}
